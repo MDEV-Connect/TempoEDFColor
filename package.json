@@ -1,0 +1,12 @@
+{
+  "name": "colortempoedf",
+  "version": "1.0.0",
+  "description": "A small package to get today and tomorrow color of the \"Tempo\" EDF subscription",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "keywords": ["colortempoedf", "tempo", "edf"],
+    "author": "MDEV-Connect <lebrun.maxence64@gmail.com>"
+}
