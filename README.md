@@ -1,5 +1,5 @@
 
-# Tempo Color EDF 💙🤍❤️
+# Tempo Color EDF 💙🤍❤️ (OUTDATED)
 
 A small unofficial package to get the color link to a day for Tempo EDF subscription 
 
